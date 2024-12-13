@@ -1,3 +1,5 @@
+Profile graphics are subject to copyright.
+
 Hi, I am Jakub Wójtowicz
 and a teenage programming enthusiast who is constantly trying to learn something new.
 I have always been interested in computers and how they work, so when I got the opportunity to learn from the Internet,
