@@ -1,5 +1,13 @@
 Profile graphics are my property and subject to copyright.
 
+License: CC BY NC ND.
+Link to License Explanation​​: https://creativecommons.org/licenses/by-nc-nd/4.0/.​
+Author: Jakub Wójtowicz.
+
+This picture is my logo.​
+
+
+
 Hi, I am Jakub Wójtowicz
 and a teenage programming enthusiast who is constantly trying to learn something new.
 I have always been interested in computers and how they work, so when I got the opportunity to learn from the Internet,
