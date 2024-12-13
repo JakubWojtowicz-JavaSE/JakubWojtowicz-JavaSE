@@ -1,4 +1,4 @@
-Profile graphics are subject to copyright.
+Profile graphics are my property and subject to copyright.
 
 Hi, I am Jakub Wójtowicz
 and a teenage programming enthusiast who is constantly trying to learn something new.
